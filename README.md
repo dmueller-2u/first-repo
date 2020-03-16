@@ -1,2 +1,2 @@
 # README
-This is the README page.
+The maps api will support GET POST PUT and DELETE.
